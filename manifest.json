@@ -8,11 +8,11 @@
         "overview": "JAV metadata providers for Jellyfin.",
         "versions": [
             {
-                "checksum": "aa59d1efb0056e1e63bbfcde629cebb0",
+                "checksum": "864cddaa0db5f89fa66c15285dc50b20",
                 "changelog": "",
                 "targetAbi": "10.7.6.0",
                 "sourceUrl": "https://github.com/anvil-v/JellyfinJav/releases/download/2021.04.04.0/jellyfinjav_2021.04.04.0.zip",
-                "timestamp": "2023-10-15T01:09:53Z",
+                "timestamp": "2023-10-15T01:12:53Z",
                 "version": "2021.04.04.0"
             }
         ]
